@@ -1,0 +1,93 @@
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days"null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zeronull
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero null
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zeronull
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero null
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zeronull
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero java.lang.ArithmeticException: / by zero
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero java.lang.ArithmeticException: / by zero
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero  {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - Can not divide by 150700!
+[main] ERROR com.lecture14.homework.SoleProprietor  - 0 can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - Can not divide by 150700!
+[main] ERROR com.lecture14.homework.SoleProprietor  - 0 can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - 340days can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - 340days can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Can not divide by 0!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - 340days can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Can not divide by 0!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - 340days is 0 or can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - 0 is 0 or can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - Number of days is 0 or can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Number of days is 0 or can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter calculationPeriodInDays supplied For input string: "340days"
+[main] ERROR com.lecture14.homework.SoleProprietor  - Invalid parameter revenueForPeriod supplied / by zero 
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: For input string: "340days" null
+[main] ERROR com.lecture14.homework.Main  - RevenueCalculationException caught: / by zero {}
+java.lang.ArithmeticException: / by zero
+	at com.lecture14.homework.SoleProprietor.getProfitForPeriodThrows(SoleProprietor.java:51)
+	at com.lecture14.homework.Main.main(Main.java:31)
+[main] ERROR com.lecture14.homework.SoleProprietor  - Number of days is 0 or can not be converted to number!
+[main] ERROR com.lecture14.homework.SoleProprietor  - Number of days is 0 or can not be converted to number!
