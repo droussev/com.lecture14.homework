@@ -19,8 +19,10 @@ public class Company {
     }
 
     public void setIdentifier(String identifier) {
-        if (identifier.length() != 10)
+        if (identifier.length() != 10) {
             log.error("Please enter a 10 digit number for the identifier!");
+            return;
+        }
         this.identifier = identifier;
     }
 
