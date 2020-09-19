@@ -64,7 +64,7 @@ public class SoleProprietor extends Company {
                 return revenueForPeriod / numDays;
             }
         }
-        log.error("Number of days is 0 or can not be converted to number!");
+        log.error("Argument calculationPeriodInDays is either 0 or can not be converted to a number!");
         return -1;
     }
 
